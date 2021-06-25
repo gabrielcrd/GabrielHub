@@ -12,5 +12,5 @@
 
 
 ## Projetos
-* **Covid-19 Dashboard with Power Bi:** 
+* **Covid-19 Dashboard with Power Bi:** https://bit.ly/dbcovidbycountry
 ---
