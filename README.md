@@ -10,5 +10,7 @@
 ## Notebooks
 * **HackerRank: Challenges and Solutions with Python:** https://bit.ly/hackerrank-gabriel
 
+
 ## Projetos
+* **Covid-19 Dashboard with Power Bi:** 
 ---
