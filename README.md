@@ -7,10 +7,10 @@
 <sub>Analista de Inteligência de Mercado e aprendiz de *Data Science*</sub>
 
 
-## Notebooks
+## 📓 Notebooks
 * **HackerRank: Challenges and Solutions with Python:** https://bit.ly/hackerrank-gabriel
 
 
-## Projetos
+## 💡 Projetos
 * **Covid-19 Dashboard with Power Bi:** https://bit.ly/dbcovidbycountry
 ---
