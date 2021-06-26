@@ -13,7 +13,7 @@ conheci a ciência de dados e comecei a me interessar por ela (*mesmo sabendo qu
 
 Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira, tendo adquirido até o momento habilidades em programação e estatística básica.
 
-**Background em**: Python, R, Excel,  Análise de dados.
+**Background em**: Python, R, Power BI, Excel,  Análise de dados.
 
 </br>
 
