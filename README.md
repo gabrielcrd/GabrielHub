@@ -17,9 +17,9 @@ Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira atráv
 **Background em**: Python, R, Power BI, Excel,  Análise de dados.
 
 **Links:**
-* [*Medium*](https://medium.com)
-* [*LinkedIn*](https://br.linkedin.com)
-* [*Instagram*](https://www.instagram.com/gabecrd/)
+* [Medium](https://medium.com)
+* [LinkedIn](https://br.linkedin.com)
+* [Instagram](https://www.instagram.com/gabecrd/)
 
 
 ## 📓 Notebooks
