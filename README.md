@@ -20,7 +20,6 @@ Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira com o 
 * [*LinkedIn*](https://br.linkedin.com)
 * [*Instagram*](https://www.instagram.com/gabecrd/)
 
-</br>
 
 ## 📓 Notebooks
 * **HackerRank: Challenges and Solutions with Python:** https://bit.ly/hackerrank-gabriel
