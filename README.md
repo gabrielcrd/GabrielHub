@@ -30,4 +30,7 @@ Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira com o 
 
 ## 🖥️ MOOCs
 * **Foundations: Data, Data, Everywhere - Google Career Certificates**
+* **Curso de Python Mundo 1, 2, 3 - Curso em Vídeo**
+* **Curso de MySQL - Curso em Vídeo**
+* **Curso de HTML5 - Curso em Vídeo**
 ---
