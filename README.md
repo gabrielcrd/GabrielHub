@@ -11,7 +11,7 @@ Meu nome é Gabriel e eu sou analista de inteligência de mercado na Companhia d
 Por conta de uma [matéria publicada](https://recordtv.r7.com/fala-brasil/fotos/carreira-em-ciencia-de-dados-promete-salarios-de-r-22-mil-29092018) pela *Record* em Agosto de 2018,
 conheci a ciência de dados e comecei a me interessar por ela (*mesmo sabendo que a matéria é um tanto tendenciosa 😅*). 
 
-Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira, tendo adquirido até o momento habilidades em programação, estatística básica.
+Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira, tendo adquirido até o momento habilidades em programação e estatística básica.
 
 **Background em**: Python, R, Excel,  Análise de dados.
 
