@@ -28,4 +28,6 @@ Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira com o 
 ## 💡 Projetos
 * **Covid-19 Dashboard with Power Bi:** https://bit.ly/cvd19dashboard
 
+## 🖥️ MOOCs
+* **Foundations: Data, Data, Everywhere - Google Career Certificates**
 ---
