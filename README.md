@@ -24,8 +24,7 @@ Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira atráv
 
 ## 📓 Notebooks
 * **HackerRank: Challenges and Solutions with Python:** https://bit.ly/hackerrank-gabriel
-* **Kaggle: Titanic Machine Learning from Disaster:** *Coming Soon...*
-
+* **Kaggle: Titanic Machine Learning from Disaster:** https://bit.ly/titanic-gabrielcrd
 ## 💡 Projetos
 * **Covid-19 Dashboard with Power Bi:** https://bit.ly/cvd19dashboard
 
