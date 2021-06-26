@@ -29,9 +29,9 @@ Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira com o 
 * **Covid-19 Dashboard with Power Bi:** https://bit.ly/cvd19dashboard
 
 ## 🖥️ MOOCs
-* **Foundations: Data, Data, Everywhere - Google Career Certificates**
-* **Curso de Python Mundo 1, 2, 3 - Curso em Vídeo**
-* **Curso de GIT e GITHub - Curso em Vídeo**
-* **Curso de MySQL - Curso em Vídeo**
-* **Curso de HTML5 - Curso em Vídeo**
+* **Foundations: Data, Data, Everywhere - [Google Career Certificates](https://www.coursera.org/learn/foundations-data)**
+* **Curso de Python Mundo 1, 2, 3 - [Curso em Vídeo](https://www.cursoemvideo.com/course/python-3-mundo-1/)**
+* **Curso de GIT e GITHub - [Curso em Vídeo](https://www.cursoemvideo.com/course/curso-de-git-e-github/)**
+* **Curso de MySQL - [Curso em Vídeo](https://www.cursoemvideo.com/course/mysql/)**
+* **Curso de HTML5 - [Curso em Vídeo](https://www.cursoemvideo.com/course/html5/)**
 ---
