@@ -28,6 +28,7 @@ Porém foi em 2020 que eu comecei a me preparar para atuar nessa carreira atráv
 
 ## 💡 Projetos
 * **Covid-19 Dashboard with Power Bi:** https://bit.ly/cvd19dashboard
+* **Analisando os Dados da Airbnb Rio:** https://bit.ly/airbnb-gabriel
 
 ## 🖥️ MOOCs
 ### ᛊ Coursera
